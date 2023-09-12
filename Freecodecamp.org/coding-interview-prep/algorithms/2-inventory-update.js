@@ -1,3 +1,7 @@
+/*
+  https://www.freecodecamp.org/learn/coding-interview-prep/algorithms/inventory-update
+*/
+
 function updateInventory(arr1, arr2) {
   // Merge both arrays
 
